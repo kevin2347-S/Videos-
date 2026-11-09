@@ -1,0 +1,184 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Sub,Inter ExtraBold,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,60,60,560,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.16,0:00:00.34,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}¿USTEDES{\bord5\3c&H000000&} QUÉ\NPENSARÍAN DE
+Dialogue: 0,0:00:00.34,0:00:00.44,Sub,,0,0,0,,¿USTEDES {\bord16\3c&H00ED3A7C&}QUÉ{\bord5\3c&H000000&}\NPENSARÍAN DE
+Dialogue: 0,0:00:00.44,0:00:01.12,Sub,,0,0,0,,¿USTEDES QUÉ\N{\bord16\3c&H00ED3A7C&}PENSARÍAN{\bord5\3c&H000000&} DE
+Dialogue: 0,0:00:01.12,0:00:01.36,Sub,,0,0,0,,¿USTEDES QUÉ\NPENSARÍAN {\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:01.24,0:00:01.36,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}UN{\bord5\3c&H000000&} HOMBRE
+Dialogue: 0,0:00:01.36,0:00:01.76,Sub,,0,0,0,,UN {\bord16\3c&H00ED3A7C&}HOMBRE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:01.76,0:00:02.26,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}PROFETA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:02.80,0:00:03.00,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}QUE{\bord5\3c&H000000&} HA\NVISTO DE
+Dialogue: 0,0:00:03.00,0:00:03.10,Sub,,0,0,0,,QUE {\bord16\3c&H00ED3A7C&}HA{\bord5\3c&H000000&}\NVISTO DE
+Dialogue: 0,0:00:03.10,0:00:03.40,Sub,,0,0,0,,QUE HA\N{\bord16\3c&H00ED3A7C&}VISTO{\bord5\3c&H000000&} DE
+Dialogue: 0,0:00:03.40,0:00:03.78,Sub,,0,0,0,,QUE HA\NVISTO {\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:03.66,0:00:04.16,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}TODO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:04.54,0:00:04.84,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}SUFRE{\bord5\3c&H000000&}\NDE ANSIEDAD?
+Dialogue: 0,0:00:04.84,0:00:05.00,Sub,,0,0,0,,SUFRE\N{\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&} ANSIEDAD?
+Dialogue: 0,0:00:05.00,0:00:05.60,Sub,,0,0,0,,SUFRE\NDE {\bord16\3c&H00ED3A7C&}ANSIEDAD?{\bord5\3c&H000000&}
+Dialogue: 0,0:00:05.86,0:00:05.98,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}UNO{\bord5\3c&H000000&} PENSARÍA\NINICIALMENTE DE
+Dialogue: 0,0:00:05.98,0:00:06.50,Sub,,0,0,0,,UNO {\bord16\3c&H00ED3A7C&}PENSARÍA{\bord5\3c&H000000&}\NINICIALMENTE DE
+Dialogue: 0,0:00:06.50,0:00:07.16,Sub,,0,0,0,,UNO PENSARÍA\N{\bord16\3c&H00ED3A7C&}INICIALMENTE{\bord5\3c&H000000&} DE
+Dialogue: 0,0:00:07.16,0:00:07.46,Sub,,0,0,0,,UNO PENSARÍA\NINICIALMENTE {\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:07.34,0:00:07.42,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}QUE{\bord5\3c&H000000&} NO\NES LÓGICO
+Dialogue: 0,0:00:07.42,0:00:07.60,Sub,,0,0,0,,QUE {\bord16\3c&H00ED3A7C&}NO{\bord5\3c&H000000&}\NES LÓGICO
+Dialogue: 0,0:00:07.60,0:00:07.70,Sub,,0,0,0,,QUE NO\N{\bord16\3c&H00ED3A7C&}ES{\bord5\3c&H000000&} LÓGICO
+Dialogue: 0,0:00:07.70,0:00:08.22,Sub,,0,0,0,,QUE NO\NES {\bord16\3c&H00ED3A7C&}LÓGICO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:08.10,0:00:08.28,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}QUE{\bord5\3c&H000000&} SUFRE\NDE QUÉ
+Dialogue: 0,0:00:08.28,0:00:08.62,Sub,,0,0,0,,QUE {\bord16\3c&H00ED3A7C&}SUFRE{\bord5\3c&H000000&}\NDE QUÉ
+Dialogue: 0,0:00:08.62,0:00:08.76,Sub,,0,0,0,,QUE SUFRE\N{\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&} QUÉ
+Dialogue: 0,0:00:08.76,0:00:09.06,Sub,,0,0,0,,QUE SUFRE\NDE {\bord16\3c&H00ED3A7C&}QUÉ{\bord5\3c&H000000&}
+Dialogue: 0,0:00:09.33,0:00:09.51,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&} LA\NANSIEDAD COMO
+Dialogue: 0,0:00:09.51,0:00:09.59,Sub,,0,0,0,,DE {\bord16\3c&H00ED3A7C&}LA{\bord5\3c&H000000&}\NANSIEDAD COMO
+Dialogue: 0,0:00:09.59,0:00:09.95,Sub,,0,0,0,,DE LA\N{\bord16\3c&H00ED3A7C&}ANSIEDAD{\bord5\3c&H000000&} COMO
+Dialogue: 0,0:00:09.95,0:00:10.27,Sub,,0,0,0,,DE LA\NANSIEDAD {\bord16\3c&H00ED3A7C&}COMO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:10.15,0:00:10.51,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}TAL{\bord5\3c&H000000&}
+Dialogue: 0,0:00:10.62,0:00:11.10,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}YO{\bord5\3c&H000000&} NO\NSÉ CUÁNTOS
+Dialogue: 0,0:00:11.10,0:00:11.18,Sub,,0,0,0,,YO {\bord16\3c&H00ED3A7C&}NO{\bord5\3c&H000000&}\NSÉ CUÁNTOS
+Dialogue: 0,0:00:11.18,0:00:11.30,Sub,,0,0,0,,YO NO\N{\bord16\3c&H00ED3A7C&}SÉ{\bord5\3c&H000000&} CUÁNTOS
+Dialogue: 0,0:00:11.30,0:00:11.72,Sub,,0,0,0,,YO NO\NSÉ {\bord16\3c&H00ED3A7C&}CUÁNTOS{\bord5\3c&H000000&}
+Dialogue: 0,0:00:11.60,0:00:11.70,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&} USTEDES\NLES HA
+Dialogue: 0,0:00:11.70,0:00:11.90,Sub,,0,0,0,,DE {\bord16\3c&H00ED3A7C&}USTEDES{\bord5\3c&H000000&}\NLES HA
+Dialogue: 0,0:00:11.90,0:00:12.14,Sub,,0,0,0,,DE USTEDES\N{\bord16\3c&H00ED3A7C&}LES{\bord5\3c&H000000&} HA
+Dialogue: 0,0:00:12.14,0:00:12.32,Sub,,0,0,0,,DE USTEDES\NLES {\bord16\3c&H00ED3A7C&}HA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:12.20,0:00:12.54,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}PASADO{\bord5\3c&H000000&} QUE
+Dialogue: 0,0:00:12.54,0:00:12.95,Sub,,0,0,0,,PASADO {\bord16\3c&H00ED3A7C&}QUE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:13.25,0:00:13.43,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}SE{\bord5\3c&H000000&} LEVANTAN\NA LAS
+Dialogue: 0,0:00:13.43,0:00:13.93,Sub,,0,0,0,,SE {\bord16\3c&H00ED3A7C&}LEVANTAN{\bord5\3c&H000000&}\NA LAS
+Dialogue: 0,0:00:13.93,0:00:14.05,Sub,,0,0,0,,SE LEVANTAN\N{\bord16\3c&H00ED3A7C&}A{\bord5\3c&H000000&} LAS
+Dialogue: 0,0:00:14.05,0:00:14.35,Sub,,0,0,0,,SE LEVANTAN\NA {\bord16\3c&H00ED3A7C&}LAS{\bord5\3c&H000000&}
+Dialogue: 0,0:00:14.23,0:00:14.37,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}TRES{\bord5\3c&H000000&} DE\NLA MAÑANA
+Dialogue: 0,0:00:14.37,0:00:14.53,Sub,,0,0,0,,TRES {\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&}\NLA MAÑANA
+Dialogue: 0,0:00:14.53,0:00:14.65,Sub,,0,0,0,,TRES DE\N{\bord16\3c&H00ED3A7C&}LA{\bord5\3c&H000000&} MAÑANA
+Dialogue: 0,0:00:14.65,0:00:15.09,Sub,,0,0,0,,TRES DE\NLA {\bord16\3c&H00ED3A7C&}MAÑANA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:14.97,0:00:15.23,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}CON{\bord5\3c&H000000&}\NUN PENSAMIENTO
+Dialogue: 0,0:00:15.23,0:00:15.39,Sub,,0,0,0,,CON\N{\bord16\3c&H00ED3A7C&}UN{\bord5\3c&H000000&} PENSAMIENTO
+Dialogue: 0,0:00:15.39,0:00:16.21,Sub,,0,0,0,,CON\NUN {\bord16\3c&H00ED3A7C&}PENSAMIENTO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:16.22,0:00:16.67,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}Y{\bord5\3c&H000000&} EL\NPROBLEMA ES
+Dialogue: 0,0:00:16.67,0:00:16.79,Sub,,0,0,0,,Y {\bord16\3c&H00ED3A7C&}EL{\bord5\3c&H000000&}\NPROBLEMA ES
+Dialogue: 0,0:00:16.79,0:00:17.07,Sub,,0,0,0,,Y EL\N{\bord16\3c&H00ED3A7C&}PROBLEMA{\bord5\3c&H000000&} ES
+Dialogue: 0,0:00:17.07,0:00:17.35,Sub,,0,0,0,,Y EL\NPROBLEMA {\bord16\3c&H00ED3A7C&}ES{\bord5\3c&H000000&}
+Dialogue: 0,0:00:17.23,0:00:17.31,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}QUE{\bord5\3c&H000000&} A LAS TRES
+Dialogue: 0,0:00:17.31,0:00:17.39,Sub,,0,0,0,,QUE {\bord16\3c&H00ED3A7C&}A{\bord5\3c&H000000&} LAS TRES
+Dialogue: 0,0:00:17.39,0:00:17.51,Sub,,0,0,0,,QUE A {\bord16\3c&H00ED3A7C&}LAS{\bord5\3c&H000000&} TRES
+Dialogue: 0,0:00:17.51,0:00:17.83,Sub,,0,0,0,,QUE A LAS {\bord16\3c&H00ED3A7C&}TRES{\bord5\3c&H000000&}
+Dialogue: 0,0:00:17.71,0:00:17.95,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}Y{\bord5\3c&H000000&} MEDIA DE LA
+Dialogue: 0,0:00:17.95,0:00:18.15,Sub,,0,0,0,,Y {\bord16\3c&H00ED3A7C&}MEDIA{\bord5\3c&H000000&} DE LA
+Dialogue: 0,0:00:18.15,0:00:18.37,Sub,,0,0,0,,Y MEDIA {\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&} LA
+Dialogue: 0,0:00:18.37,0:00:18.61,Sub,,0,0,0,,Y MEDIA DE {\bord16\3c&H00ED3A7C&}LA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:18.49,0:00:18.87,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}MAÑANA{\bord5\3c&H000000&} ESE\NPENSAMIENTO YA
+Dialogue: 0,0:00:18.87,0:00:19.23,Sub,,0,0,0,,MAÑANA {\bord16\3c&H00ED3A7C&}ESE{\bord5\3c&H000000&}\NPENSAMIENTO YA
+Dialogue: 0,0:00:19.23,0:00:20.13,Sub,,0,0,0,,MAÑANA ESE\N{\bord16\3c&H00ED3A7C&}PENSAMIENTO{\bord5\3c&H000000&} YA
+Dialogue: 0,0:00:20.13,0:00:20.85,Sub,,0,0,0,,MAÑANA ESE\NPENSAMIENTO {\bord16\3c&H00ED3A7C&}YA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:20.73,0:00:21.13,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}TIENE{\bord5\3c&H000000&} HIJOS
+Dialogue: 0,0:00:21.13,0:00:21.95,Sub,,0,0,0,,TIENE {\bord16\3c&H00ED3A7C&}HIJOS{\bord5\3c&H000000&}
+Dialogue: 0,0:00:22.79,0:00:23.17,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}NIETOS{\bord5\3c&H000000&} Y
+Dialogue: 0,0:00:23.17,0:00:23.47,Sub,,0,0,0,,NIETOS {\bord16\3c&H00ED3A7C&}Y{\bord5\3c&H000000&}
+Dialogue: 0,0:00:23.77,0:00:24.44,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}BISNIETOS{\bord5\3c&H000000&}
+Dialogue: 0,0:00:24.69,0:00:24.81,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}UNO{\bord5\3c&H000000&} DICE\NCÓMO HACE
+Dialogue: 0,0:00:24.81,0:00:24.91,Sub,,0,0,0,,UNO {\bord16\3c&H00ED3A7C&}DICE{\bord5\3c&H000000&}\NCÓMO HACE
+Dialogue: 0,0:00:24.91,0:00:25.17,Sub,,0,0,0,,UNO DICE\N{\bord16\3c&H00ED3A7C&}CÓMO{\bord5\3c&H000000&} HACE
+Dialogue: 0,0:00:25.17,0:00:25.59,Sub,,0,0,0,,UNO DICE\NCÓMO {\bord16\3c&H00ED3A7C&}HACE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:25.47,0:00:25.65,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}LA{\bord5\3c&H000000&} MENTE\NPARA TRABAJAR
+Dialogue: 0,0:00:25.65,0:00:26.13,Sub,,0,0,0,,LA {\bord16\3c&H00ED3A7C&}MENTE{\bord5\3c&H000000&}\NPARA TRABAJAR
+Dialogue: 0,0:00:26.13,0:00:26.51,Sub,,0,0,0,,LA MENTE\N{\bord16\3c&H00ED3A7C&}PARA{\bord5\3c&H000000&} TRABAJAR
+Dialogue: 0,0:00:26.51,0:00:27.13,Sub,,0,0,0,,LA MENTE\NPARA {\bord16\3c&H00ED3A7C&}TRABAJAR{\bord5\3c&H000000&}
+Dialogue: 0,0:00:27.01,0:00:27.61,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}TANTO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:27.85,0:00:27.93,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}O{\bord5\3c&H000000&} SEA
+Dialogue: 0,0:00:27.85,0:00:27.82,Sub,,0,0,0,,O {\bord16\3c&H00ED3A7C&}SEA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:27.90,0:00:28.16,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}OYE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:28.14,0:00:28.26,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}¿SABE{\bord5\3c&H000000&} QUÉ\NES LO
+Dialogue: 0,0:00:28.26,0:00:28.40,Sub,,0,0,0,,¿SABE {\bord16\3c&H00ED3A7C&}QUÉ{\bord5\3c&H000000&}\NES LO
+Dialogue: 0,0:00:28.40,0:00:28.48,Sub,,0,0,0,,¿SABE QUÉ\N{\bord16\3c&H00ED3A7C&}ES{\bord5\3c&H000000&} LO
+Dialogue: 0,0:00:28.46,0:00:28.66,Sub,,0,0,0,,¿SABE QUÉ\NES {\bord16\3c&H00ED3A7C&}LO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:28.54,0:00:28.80,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}MÁS{\bord5\3c&H000000&} BONITO?
+Dialogue: 0,0:00:28.80,0:00:29.26,Sub,,0,0,0,,MÁS {\bord16\3c&H00ED3A7C&}BONITO?{\bord5\3c&H000000&}
+Dialogue: 0,0:00:29.41,0:00:29.53,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}YO{\bord5\3c&H000000&} NO SÉ SI
+Dialogue: 0,0:00:29.53,0:00:29.61,Sub,,0,0,0,,YO {\bord16\3c&H00ED3A7C&}NO{\bord5\3c&H000000&} SÉ SI
+Dialogue: 0,0:00:29.57,0:00:29.65,Sub,,0,0,0,,YO NO {\bord16\3c&H00ED3A7C&}SÉ{\bord5\3c&H000000&} SI
+Dialogue: 0,0:00:29.65,0:00:29.83,Sub,,0,0,0,,YO NO SÉ {\bord16\3c&H00ED3A7C&}SI{\bord5\3c&H000000&}
+Dialogue: 0,0:00:29.71,0:00:29.85,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}SE{\bord5\3c&H000000&} ACUERDAN\NDE ESA
+Dialogue: 0,0:00:29.85,0:00:30.03,Sub,,0,0,0,,SE {\bord16\3c&H00ED3A7C&}ACUERDAN{\bord5\3c&H000000&}\NDE ESA
+Dialogue: 0,0:00:30.03,0:00:30.17,Sub,,0,0,0,,SE ACUERDAN\N{\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&} ESA
+Dialogue: 0,0:00:30.17,0:00:30.37,Sub,,0,0,0,,SE ACUERDAN\NDE {\bord16\3c&H00ED3A7C&}ESA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:30.25,0:00:30.75,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}HISTORIA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:30.87,0:00:31.19,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}PERO{\bord5\3c&H000000&} EL\NSEÑOR LES
+Dialogue: 0,0:00:31.19,0:00:32.37,Sub,,0,0,0,,PERO {\bord16\3c&H00ED3A7C&}EL{\bord5\3c&H000000&}\NSEÑOR LES
+Dialogue: 0,0:00:32.37,0:00:32.55,Sub,,0,0,0,,PERO EL\N{\bord16\3c&H00ED3A7C&}SEÑOR{\bord5\3c&H000000&} LES
+Dialogue: 0,0:00:32.55,0:00:32.85,Sub,,0,0,0,,PERO EL\NSEÑOR {\bord16\3c&H00ED3A7C&}LES{\bord5\3c&H000000&}
+Dialogue: 0,0:00:32.73,0:00:33.01,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}ESTABA{\bord5\3c&H000000&} HACIENDO\NEL DESAYUNO
+Dialogue: 0,0:00:33.01,0:00:33.31,Sub,,0,0,0,,ESTABA {\bord16\3c&H00ED3A7C&}HACIENDO{\bord5\3c&H000000&}\NEL DESAYUNO
+Dialogue: 0,0:00:33.31,0:00:33.47,Sub,,0,0,0,,ESTABA HACIENDO\N{\bord16\3c&H00ED3A7C&}EL{\bord5\3c&H000000&} DESAYUNO
+Dialogue: 0,0:00:33.47,0:00:34.05,Sub,,0,0,0,,ESTABA HACIENDO\NEL {\bord16\3c&H00ED3A7C&}DESAYUNO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:34.09,0:00:34.41,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}SE VE{\bord5\3c&H000000&} QUE\NSE REPITE
+Dialogue: 0,0:00:34.41,0:00:34.57,Sub,,0,0,0,,SE VE {\bord16\3c&H00ED3A7C&}QUE{\bord5\3c&H000000&}\NSE REPITE
+Dialogue: 0,0:00:34.57,0:00:34.67,Sub,,0,0,0,,SE VE QUE\N{\bord16\3c&H00ED3A7C&}SE{\bord5\3c&H000000&} REPITE
+Dialogue: 0,0:00:34.67,0:00:35.13,Sub,,0,0,0,,SE VE QUE\NSE {\bord16\3c&H00ED3A7C&}REPITE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:35.01,0:00:35.15,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}LA{\bord5\3c&H000000&} HISTORIA
+Dialogue: 0,0:00:35.15,0:00:35.57,Sub,,0,0,0,,LA {\bord16\3c&H00ED3A7C&}HISTORIA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:35.67,0:00:35.81,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}NO{\bord5\3c&H000000&} LO REGAÑÓ
+Dialogue: 0,0:00:35.81,0:00:35.95,Sub,,0,0,0,,NO {\bord16\3c&H00ED3A7C&}LO{\bord5\3c&H000000&} REGAÑÓ
+Dialogue: 0,0:00:35.95,0:00:36.59,Sub,,0,0,0,,NO LO {\bord16\3c&H00ED3A7C&}REGAÑÓ{\bord5\3c&H000000&}
+Dialogue: 0,0:00:36.72,0:00:37.00,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}NO{\bord5\3c&H000000&} LES\NDIJO NADA
+Dialogue: 0,0:00:37.00,0:00:37.16,Sub,,0,0,0,,NO {\bord16\3c&H00ED3A7C&}LES{\bord5\3c&H000000&}\NDIJO NADA
+Dialogue: 0,0:00:37.16,0:00:37.40,Sub,,0,0,0,,NO LES\N{\bord16\3c&H00ED3A7C&}DIJO{\bord5\3c&H000000&} NADA
+Dialogue: 0,0:00:37.40,0:00:37.84,Sub,,0,0,0,,NO LES\NDIJO {\bord16\3c&H00ED3A7C&}NADA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:38.06,0:00:38.32,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}NI{\bord5\3c&H000000&} A ELÍAS NI
+Dialogue: 0,0:00:38.32,0:00:38.42,Sub,,0,0,0,,NI {\bord16\3c&H00ED3A7C&}A{\bord5\3c&H000000&} ELÍAS NI
+Dialogue: 0,0:00:38.42,0:00:38.88,Sub,,0,0,0,,NI A {\bord16\3c&H00ED3A7C&}ELÍAS{\bord5\3c&H000000&} NI
+Dialogue: 0,0:00:38.88,0:00:39.22,Sub,,0,0,0,,NI A ELÍAS {\bord16\3c&H00ED3A7C&}NI{\bord5\3c&H000000&}
+Dialogue: 0,0:00:39.10,0:00:39.22,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}A{\bord5\3c&H000000&} PEDRO
+Dialogue: 0,0:00:39.22,0:00:39.68,Sub,,0,0,0,,A {\bord16\3c&H00ED3A7C&}PEDRO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:39.79,0:00:40.07,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}NO{\bord5\3c&H000000&} LES\NESTABA HACIENDO
+Dialogue: 0,0:00:40.07,0:00:40.15,Sub,,0,0,0,,NO {\bord16\3c&H00ED3A7C&}LES{\bord5\3c&H000000&}\NESTABA HACIENDO
+Dialogue: 0,0:00:40.07,0:00:40.41,Sub,,0,0,0,,NO LES\N{\bord16\3c&H00ED3A7C&}ESTABA{\bord5\3c&H000000&} HACIENDO
+Dialogue: 0,0:00:40.41,0:00:40.77,Sub,,0,0,0,,NO LES\NESTABA {\bord16\3c&H00ED3A7C&}HACIENDO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:40.65,0:00:40.83,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}LA{\bord5\3c&H000000&} COMIDITA
+Dialogue: 0,0:00:40.83,0:00:41.56,Sub,,0,0,0,,LA {\bord16\3c&H00ED3A7C&}COMIDITA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:41.77,0:00:41.85,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}LES{\bord5\3c&H000000&} DECÍA
+Dialogue: 0,0:00:41.85,0:00:42.09,Sub,,0,0,0,,LES {\bord16\3c&H00ED3A7C&}DECÍA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:42.15,0:00:42.23,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}VENGA{\bord5\3c&H000000&}\NMUCHACHOS COMAMOS
+Dialogue: 0,0:00:42.21,0:00:42.57,Sub,,0,0,0,,VENGA\N{\bord16\3c&H00ED3A7C&}MUCHACHOS{\bord5\3c&H000000&} COMAMOS
+Dialogue: 0,0:00:42.57,0:00:43.15,Sub,,0,0,0,,VENGA\NMUCHACHOS {\bord16\3c&H00ED3A7C&}COMAMOS{\bord5\3c&H000000&}
+Dialogue: 0,0:00:43.31,0:00:43.59,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}AQUÍ{\bord5\3c&H000000&} LES\NTENGO UN
+Dialogue: 0,0:00:43.59,0:00:43.73,Sub,,0,0,0,,AQUÍ {\bord16\3c&H00ED3A7C&}LES{\bord5\3c&H000000&}\NTENGO UN
+Dialogue: 0,0:00:43.73,0:00:43.97,Sub,,0,0,0,,AQUÍ LES\N{\bord16\3c&H00ED3A7C&}TENGO{\bord5\3c&H000000&} UN
+Dialogue: 0,0:00:43.97,0:00:44.27,Sub,,0,0,0,,AQUÍ LES\NTENGO {\bord16\3c&H00ED3A7C&}UN{\bord5\3c&H000000&}
+Dialogue: 0,0:00:44.15,0:00:44.67,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}ASADO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:44.63,0:00:44.71,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}ÉL{\bord5\3c&H000000&} TENÍA\NUN ASADO
+Dialogue: 0,0:00:44.71,0:00:45.11,Sub,,0,0,0,,ÉL {\bord16\3c&H00ED3A7C&}TENÍA{\bord5\3c&H000000&}\NUN ASADO
+Dialogue: 0,0:00:45.11,0:00:45.35,Sub,,0,0,0,,ÉL TENÍA\N{\bord16\3c&H00ED3A7C&}UN{\bord5\3c&H000000&} ASADO
+Dialogue: 0,0:00:45.35,0:00:45.85,Sub,,0,0,0,,ÉL TENÍA\NUN {\bord16\3c&H00ED3A7C&}ASADO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:45.73,0:00:46.03,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}AHÍ{\bord5\3c&H000000&}
+Dialogue: 0,0:00:46.18,0:00:46.26,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}SE{\bord5\3c&H000000&} VAN A DAR
+Dialogue: 0,0:00:46.24,0:00:46.36,Sub,,0,0,0,,SE {\bord16\3c&H00ED3A7C&}VAN{\bord5\3c&H000000&} A DAR
+Dialogue: 0,0:00:46.36,0:00:46.44,Sub,,0,0,0,,SE VAN {\bord16\3c&H00ED3A7C&}A{\bord5\3c&H000000&} DAR
+Dialogue: 0,0:00:46.44,0:00:46.62,Sub,,0,0,0,,SE VAN A {\bord16\3c&H00ED3A7C&}DAR{\bord5\3c&H000000&}
+Dialogue: 0,0:00:46.50,0:00:46.74,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}CUENTA{\bord5\3c&H000000&} CUÁNTO\NNOS AMA
+Dialogue: 0,0:00:46.74,0:00:47.30,Sub,,0,0,0,,CUENTA {\bord16\3c&H00ED3A7C&}CUÁNTO{\bord5\3c&H000000&}\NNOS AMA
+Dialogue: 0,0:00:47.30,0:00:47.48,Sub,,0,0,0,,CUENTA CUÁNTO\N{\bord16\3c&H00ED3A7C&}NOS{\bord5\3c&H000000&} AMA
+Dialogue: 0,0:00:47.48,0:00:48.02,Sub,,0,0,0,,CUENTA CUÁNTO\NNOS {\bord16\3c&H00ED3A7C&}AMA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:47.90,0:00:48.27,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}DIOS{\bord5\3c&H000000&}
+Dialogue: 0,0:00:48.78,0:00:49.02,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}EL{\bord5\3c&H000000&} SEÑOR\NDICE QUE
+Dialogue: 0,0:00:49.02,0:00:49.34,Sub,,0,0,0,,EL {\bord16\3c&H00ED3A7C&}SEÑOR{\bord5\3c&H000000&}\NDICE QUE
+Dialogue: 0,0:00:49.34,0:00:49.56,Sub,,0,0,0,,EL SEÑOR\N{\bord16\3c&H00ED3A7C&}DICE{\bord5\3c&H000000&} QUE
+Dialogue: 0,0:00:49.56,0:00:50.04,Sub,,0,0,0,,EL SEÑOR\NDICE {\bord16\3c&H00ED3A7C&}QUE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:49.92,0:00:50.24,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}DEJEN{\bord5\3c&H000000&} TODO ESO
+Dialogue: 0,0:00:50.24,0:00:50.48,Sub,,0,0,0,,DEJEN {\bord16\3c&H00ED3A7C&}TODO{\bord5\3c&H000000&} ESO
+Dialogue: 0,0:00:50.48,0:00:50.82,Sub,,0,0,0,,DEJEN TODO {\bord16\3c&H00ED3A7C&}ESO{\bord5\3c&H000000&}
+Dialogue: 0,0:00:50.88,0:00:51.14,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}VENGA{\bord5\3c&H000000&}
+Dialogue: 0,0:00:51.16,0:00:51.60,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}COMAN{\bord5\3c&H000000&}
+Dialogue: 0,0:00:51.63,0:00:51.79,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}NO{\bord5\3c&H000000&} DA PAN DE
+Dialogue: 0,0:00:51.79,0:00:51.89,Sub,,0,0,0,,NO {\bord16\3c&H00ED3A7C&}DA{\bord5\3c&H000000&} PAN DE
+Dialogue: 0,0:00:51.89,0:00:52.15,Sub,,0,0,0,,NO DA {\bord16\3c&H00ED3A7C&}PAN{\bord5\3c&H000000&} DE
+Dialogue: 0,0:00:52.15,0:00:52.39,Sub,,0,0,0,,NO DA PAN {\bord16\3c&H00ED3A7C&}DE{\bord5\3c&H000000&}
+Dialogue: 0,0:00:52.27,0:00:52.97,Sub,,0,0,0,,{\bord16\3c&H00ED3A7C&}FATIGAS{\bord5\3c&H000000&}
